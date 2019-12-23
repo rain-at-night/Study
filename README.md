@@ -1,2 +1,3 @@
-# Study
-一些学习资料的地址，目录等
+游戏编程模式： https://gpp.tkchu.me/
+
+C# and Shader Tutorials for the Unity Engine ： https://catlikecoding.com/unity/tutorials/
