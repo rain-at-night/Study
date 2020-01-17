@@ -4,7 +4,8 @@
 
 
 # shader:
-- C# and Shader Tutorials for the Unity Engine ： https://catlikecoding.com/unity/tutorials/
+- C# and Shader Tutorials for the Unity Engine ： https://catlikecoding.com/unity/tutorials/ 
+- 零基础入门unity shader 系列(十篇) ： https://zhuanlan.zhihu.com/p/46745694
 
 
 
